@@ -26,33 +26,45 @@ Visualize retention metrics through an interactive dashboard
 ## MySQL
 
 Cohort creation
+
 Customer retention queries
+
 Date calculations and aggregation
 
 ## Excel
 
 Data validation
+
 Dataset inspection
+
 Basic pivot analysis
 
 ## Python
 
 Exploratory data analysis (EDA)
+
 Data visualization using Pandas, Matplotlib, and Seaborn
 
 ## Power BI
 
 Interactive dashboard creation
+
 Cohort retention matrix visualization
+
 KPI reporting
 
 ## Dataset
 
 The dataset contains customer transaction records including:
+
 Customer_ID
+
 Order_Date
+
 Product_Category
+
 Region
+
 Sales_Value
 
 The dataset contains 594 customers and their transaction history used to build cohort groups and retention metrics.
@@ -96,14 +108,19 @@ The dashboard includes:
 ## Key Metrics
 
 Total Customers
+
 Retained Customers
+
 Retention Rate
 
 ## Visualizations
 
 Cohort Retention Heatmap
-Customer Acquisition by Month
+
+Customer Acquisition by Month 
+
 Retention Trend Over Time
+
 Purchase Distribution
 
 ## Dashboard Preview
@@ -112,13 +129,17 @@ Purchase Distribution
 ## Key Insights
 
 Customer retention decreases over time after the first purchase.
+
 Certain cohorts show stronger repeat purchase behavior.
+
 Acquisition trends vary across months.
+
 Retention analysis helps identify opportunities for improving customer loyalty.
 
 ## Author
 
 Nagendra V Sagar
+
 
 
 
