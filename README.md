@@ -23,30 +23,30 @@ Evaluate customer lifecycle patterns
 Visualize retention metrics through an interactive dashboard
 
 ## Tools and Technologies Used
-# MySQL
+## MySQL
 
 Cohort creation
 Customer retention queries
 Date calculations and aggregation
 
-# Excel
+## Excel
 
 Data validation
 Dataset inspection
 Basic pivot analysis
 
-# Python
+## Python
 
 Exploratory data analysis (EDA)
 Data visualization using Pandas, Matplotlib, and Seaborn
 
-# Power BI
+## Power BI
 
 Interactive dashboard creation
 Cohort retention matrix visualization
 KPI reporting
 
-# Dataset
+## Dataset
 
 The dataset contains customer transaction records including:
 Customer_ID
@@ -88,16 +88,16 @@ Retention trends
 
 The dataset was imported into Power BI to create an interactive dashboard.
 
-##Dashboard Features
-
+## Dashboard Features
 The dashboard includes:
-# Key Metrics
+
+## Key Metrics
 
 Total Customers
 Retained Customers
 Retention Rate
 
-#Visualizations
+## Visualizations
 
 Cohort Retention Heatmap
 Customer Acquisition by Month
@@ -116,5 +116,6 @@ Retention analysis helps identify opportunities for improving customer loyalty.
 
 ## Author
 
-Nagendra Sagar
+Nagendra V Sagar
+
 
