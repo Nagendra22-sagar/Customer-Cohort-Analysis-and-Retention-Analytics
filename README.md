@@ -55,6 +55,8 @@ Product_Category
 Region
 Sales_Value
 
+The dataset contains 594 customers and their transaction history used to build cohort groups and retention metrics.
+
 These fields are used to calculate customer cohorts and retention metrics.
 
 ## Project Workflow
@@ -117,5 +119,6 @@ Retention analysis helps identify opportunities for improving customer loyalty.
 ## Author
 
 Nagendra V Sagar
+
 
 
