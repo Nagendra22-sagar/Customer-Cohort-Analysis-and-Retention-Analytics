@@ -23,6 +23,7 @@ Evaluate customer lifecycle patterns
 Visualize retention metrics through an interactive dashboard
 
 ## Tools and Technologies Used
+
 ## MySQL
 
 Cohort creation
@@ -139,6 +140,7 @@ Retention analysis helps identify opportunities for improving customer loyalty.
 ## Author
 
 Nagendra V Sagar
+
 
 
 
