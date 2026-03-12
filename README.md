@@ -1,4 +1,4 @@
-Customer Cohort & Retention Analysis Dashboard
+## Customer Cohort & Retention Analysis Dashboard
 
 ## Project Overview
 
@@ -117,3 +117,4 @@ Retention analysis helps identify opportunities for improving customer loyalty.
 ## Author
 
 Nagendra Sagar
+
